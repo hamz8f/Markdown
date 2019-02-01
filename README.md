@@ -10,7 +10,7 @@ project for markdown challenge
 
 ![ireland](ireland.jpg)
 
-![castle](https://en.wikipedia.org/wiki/File:Trim_Castle_6.jpg)
+[castle](https://en.wikipedia.org/wiki/File:Trim_Castle_6.jpg)
 
 ```python
 var x=2
