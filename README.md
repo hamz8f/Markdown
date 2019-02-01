@@ -6,7 +6,7 @@ project for markdown challenge
 
 [IT degree link](https://engineering.missouri.edu/academics/it/it-degrees/bs-it/)
 
-[Link to the other file]()
+[Link to the other file](linked.md)
 
 ![ireland](ireland.jpg)
 
